@@ -41,7 +41,7 @@
       "_this"
     ],
     "no-console": "warn",
-    "require-jsdoc": "warn",
+    "require-jsdoc": "off",
     "key-spacing": ["warn", { "align": "value" }],
     "no-multi-spaces": ["error", {
       "exceptions": {
